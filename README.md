@@ -1,0 +1,1 @@
+# acra-android-sample
