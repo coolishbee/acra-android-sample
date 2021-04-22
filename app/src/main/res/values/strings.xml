@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">acra-android-sample</string>
+    <string name="errorText">test error text</string>
+</resources>
